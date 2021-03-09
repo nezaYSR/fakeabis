@@ -1,0 +1,76 @@
+{
+    "menu":[
+        {  
+            "Beranda":"null",
+            "Profil":[
+                "Visi dan Misi",
+                "Sejarah",
+                "Tugas dan Fungsi",
+                "Struktur Organisasi Kemenkeu",
+                "Nilai-nilai Kemenkeu",
+                "Profil Pejabat",
+                "Lokasi dan Kontak",
+                "Agenda",
+                "Pengelolaan Kinerja dan Resiko",
+                "Daftar Menteri",
+                "Arti Logo",
+                "Program Anti Korupsi",
+                "Pengarusutan Gender",
+                "SMV Kemenkeu"
+            ],
+            "Eselon I":[
+                "Sekertariat Jenderal",
+                "Inspektorat Jenderal",
+                "Dirjen Pajak",
+                "Dirjen Bea dan Cukai",
+                "Dirjen Anggaran",
+                "Dirjen Perbendaharaan",
+                "Dirjen Kekayaan Negara",
+                "Dirjen Perimbangan Keuangan",
+                "Dirjen Pengelolaan Pembiayaan",
+                "Badan Fiskal",
+                "Badan PendanPek"
+            ],
+            "Informasi Publik":[
+                "Pejabat Pengelola",
+                "Daftar Info",
+                "Anggaran dan Realisasi",
+                "Transparansi Kinerja",
+                "Info Rekrutmen",
+                "UU APBN",
+                "Info Peraturan",
+                "Kurs Pajak",
+                "Rencana Umum"
+            ],
+            "Publikasi":[
+                "Laporan",
+                "Berita",
+                "Siaran Pers Lama",
+                "Siaran Pers",
+                "Berita Unit",
+                "Daftar Publikasi",
+                "Artikel dan Opini",
+                "Pengumuman",
+                "E Magazine",
+                "APBN Kita",
+                "Surat Utang Negara",
+                "Infografik",
+                "Menjawab Utang",
+                "Pembiayaan UKM",
+                "Kajian Ekonomi",
+                "Iuran BPJS",
+                "Interaktif"
+            ],
+            "Layanan":"null",
+            "Transformasi Kelembagaan":[
+                "Profil Reformasi Birokrasi",
+                "Change Story Kemenkeu",
+                "Berita Aktual Transformasi",
+                "Manajemen Perubahan",
+                "Duta Transformasi",
+                "Laporan Tahunan TK",
+                "Gerakan Efisiensi"
+            ]
+        }
+    ]
+}

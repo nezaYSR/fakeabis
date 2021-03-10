@@ -1,8 +1,8 @@
 {
     "menu":[
-        {  
-            "Beranda":"null",
-            "Profil":[
+          
+            {"Beranda":"null"},
+            {"Profil":[
                 "Visi dan Misi",
                 "Sejarah",
                 "Tugas dan Fungsi",
@@ -17,8 +17,8 @@
                 "Program Anti Korupsi",
                 "Pengarusutan Gender",
                 "SMV Kemenkeu"
-            ],
-            "Eselon I":[
+            ]},
+           {"Eselon I":[
                 "Sekertariat Jenderal",
                 "Inspektorat Jenderal",
                 "Dirjen Pajak",
@@ -30,8 +30,8 @@
                 "Dirjen Pengelolaan Pembiayaan",
                 "Badan Fiskal",
                 "Badan PendanPek"
-            ],
-            "Informasi Publik":[
+            ]},
+            {"Informasi Publik":[
                 "Pejabat Pengelola",
                 "Daftar Info",
                 "Anggaran dan Realisasi",
@@ -41,8 +41,8 @@
                 "Info Peraturan",
                 "Kurs Pajak",
                 "Rencana Umum"
-            ],
-            "Publikasi":[
+            ]},
+            {"Publikasi":[
                 "Laporan",
                 "Berita",
                 "Siaran Pers Lama",
@@ -60,9 +60,9 @@
                 "Kajian Ekonomi",
                 "Iuran BPJS",
                 "Interaktif"
-            ],
-            "Layanan":"null",
-            "Transformasi Kelembagaan":[
+            ]},
+            {"Layanan":"null"},
+            {"Transformasi Kelembagaan":[
                 "Profil Reformasi Birokrasi",
                 "Change Story Kemenkeu",
                 "Berita Aktual Transformasi",
@@ -70,7 +70,7 @@
                 "Duta Transformasi",
                 "Laporan Tahunan TK",
                 "Gerakan Efisiensi"
-            ]
-        }
+            ]}
+        
     ]
 }

@@ -1,6 +1,5 @@
 {
     "menu":[
-          
             {"Beranda":"null"},
             {"Profil":[
                 "Visi dan Misi",
@@ -72,5 +71,57 @@
                 "Gerakan Efisiensi"
             ]}
         
+    ],
+    "news":[
+            {
+            "title":"Keamanan Energi dan Lingkungan",
+            "desc":"Energy and environmental security has emerged as the primary issue on the global agenda for 2007. Consensus has recently been forged on the potential for long-term economic, national security and societal damage from insecure energy supplies and environmental catastrophe, as well as the intense need for technological advances that can provide low-polluting and secure energy sources. Yet despite growing global momentum, there is still little agreement on the best set of actions required to reduce global dependency on fossil fuels and greenhouse gas emissions. Confounding the international policy challenge is the disproportionate impact of high oil prices and global warming across nations, insulating some countries from immediate concern while forcing others to press for more rapid change.",
+            "pic":"https://www.brinknews.com/wp-content/uploads/2018/10/GettyImages-510814846.jpg"
+            },
+            {
+            "title":"Konflik dan Krisis pangan",
+            "desc":"In a world where boundaries and borders have blurred, and where seemingly distant threats can metastasize into immediate problems, the fight against global poverty has become a fight for global security. American policymakers, who traditionally have viewed security threats as involving bullets and bombs, are increasingly focused on the link between poverty and conflict: the Pentagon’s 2006 Quadrennial Defense Review focuses on fighting the “long war,” declaring that the U.S. military has a humanitarian role in “alleviating suffering, ? [helping] prevent disorder from spiraling into wider conflict or crisis.”",
+            "pic":"https://img.jakpost.net/c/2017/08/29/2017_08_29_31693_1503940011._large.jpg"
+            },
+            {
+            "title":"Kompetisi era baru globalisasi",
+            "desc":"Is the new episode of globalization just another wave or a seismic shift? While individual elements feel familiar, the combined contours are unprecedented in scale, speed, and scope.",
+            "pic":"https://www.kemenkeu.go.id/media/10511/smi-wef3.jpg"
+            },
+            {
+            "title":"Globalisasi tidak merata",
+            "desc":"Today’s interconnected world is in uncharted territory: the world’s sole hegemonic power, the United States, nurses an addiction to foreign capital, while up-and-coming powers such as China and oil exporters sustain surpluses of increasing magnitudes. Some worry that the world is at a tipping point, where only a dramatic shift in economic policy can alter the looming trajectory. Others see underlying structural factors perpetuating gross imbalances for a sustained period.",
+            "pic":"https://images.livemint.com/rf/Image-621x414/LiveMint/Period1/2014/01/15/Photos/oped-global-imbalances--621x414.jpg"
+            },
+            {
+            "title":"Kekuatan ekonomi dunia baru",
+            "desc":"The rise of “emerging powers”-a group that usually includes the so-called BRICs (Brazil, Russia, India, and China), but which sometimes is applied more broadly to include South Africa, Mexico and others-is reshaping the global economy and, more gradually, international politics. Growing much faster than the rest of the world, these economies are changing the structure of international production and trade, the nature and direction of capital flows, and the patterns of natural resource consumption. At the same time, the growth of these countries is beginning to shift the global distribution of power forcing the great powers to come to terms with the reality that they will need to share management of international rules and systems in the coming decades.",
+            "pic":"https://indonesiaatmelbourne.unimelb.edu.au/wp-content/uploads/2016/07/14961634184_bb536e9e56_k.jpg"
+            },
+            {
+            "title":"Dampak ekonomi eksklusif Timur Tengah",
+            "desc":"The Middle East has before it what could be one of the greatest demographic gifts in modern history-a potential economic windfall arising from a young and economically active workforce. Today, young people aged 15- to 24- years old account for 22 percent of the region’s total population, the highest regional average worldwide. With the right mix of policies, this demographic opportunity could be tapped to spur economic growth and promote stability.",
+            "pic":"https://www.e-ir.info/wp-content/uploads/2019/05/2011_Vacation_Asia_Middle_East_Bahrain_5932943317.jpg"
+            },
+            {
+            "title":"Dampak korporasi global",
+            "desc":"The private sector is becoming a significant player-indeed some might say the dominant player-in shaping the global economic and development agenda. Multinational corporations with operations that span the globe, and in some cases capacities and networks that match those of governments, have a particularly important role to play in helping to spread the opportunities and mitigating some of the risks of globalization.",
+            "pic":"https://cdn.givingcompass.org/wp-content/uploads/2018/03/13100809/ii-entre.jpg"
+            },
+            {
+            "title":"Isu pandemi",
+            "desc":"The world has begun to realize that global health issues are relevant for any citizen, regardless of nationality, residence or status. Despite improvements in the world’s collective ability to battle disease with advances in medicine and technology, global health needs remain unmet, making the entire world vulnerable to health crises. In particular, the poor continue to suffer disproportionately from inadequate health services, exacerbating their struggle out of poverty.",
+            "pic":"https://asset.kompas.com/crops/u_3dSsyCuiLHfUgu0wZqBs4WVM0=/0x0:0x0/750x500/data/photo/2020/12/15/5fd88068ae41f.jpg"
+            },
+            {
+            "title":"Rivalitas ekonomi",
+            "desc":"Today’s global challenges-nuclear proliferation, the deadlock of global trade negotiations, the threat of pandemic flu, and the fight against global poverty-cannot be solved by yesterday’s international institutions. To resolve the world’s most pressing problems, which touch all corners of the globe, we must adapt our global governance approaches to be more representative and thus more effective by encouraging and enabling the key affected countries to take an active role in generating solutions.",
+            "pic":"https://images.bisnis-cdn.com/posts/2019/07/01/1118502/ktt280619-3.jpg"
+            },
+            {
+            "title":"Krisis pangan",
+            "desc":"The challenge of global poverty is more urgent than ever: over half the world’s population-nearly 3 billion people-lives on less than $2 per day; nearly 30,000 children die each day-about 11 million per year -because they’re too poor to survive. With such a toll, addressing poverty in new and more effective ways must be a priority for the global policy agenda. Fortunately, a variety of new actors are bringing new perspectives, new approaches and new energy to the challenge.",
+            "pic":"https://mronline.org/wp-content/uploads/2020/07/Screenshot-114.png"
+            }
     ]
 }

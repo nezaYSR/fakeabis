@@ -142,5 +142,6 @@
             "desc":"Dari salah satu hasil perjanjian Konferensi Meja Bundar (KMB) yang dilakukan pada tanggal 23 Agustus sampai 2 November 1949, Indonesia diakui kedaulatannya oleh Belanda pada 27 Desember 1949. Kemudian, dibentuk negara federal Republik Indonesia Serikat (RIS) yang terdiri dari Republik Indonesia dan Bijeenkomst voor Federaal Overlaag (BFO) atau Badan Permusyawaratan Federal yang lebih dikenal dengan negara boneka bentukan Belanda[25]. Sebagai upaya untuk menyeragamkan uang di wilayah Republik Indonesia Serikat."
         }
     ],
-    "htmlFetch":["<h1>HTML fetching</h1><h3>niki kopine</h3><h2 style=`color:red;`>mas kene</h2><img src=`https://cdn-2.tstatic.net/tribunnews/foto/bank/images/tes-kepribadian-gambar-pertama-11.jpg` style=`margin-left: 7em; width: 150px;`>"]
+    "htmlFetch":["<h1>HTML fetching</h1><h3>niki kopine</h3><h2 style='color:red;'>mas kene</h2><img src=`https://cdn-2.tstatic.net/tribunnews/foto/bank/images/tes-kepribadian-gambar-pertama-11.jpg` style=`margin-left: 7em; width: 150px;`>"],
+    "loginFetch":[{"admin":"admin","user":"user"}]
 }

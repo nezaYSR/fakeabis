@@ -143,5 +143,5 @@
         }
     ],
     "htmlFetch":["<h1>HTML fetching</h1><h3>niki kopine</h3><h2 style='color:red;'>mas kene</h2><img src=`https://cdn-2.tstatic.net/tribunnews/foto/bank/images/tes-kepribadian-gambar-pertama-11.jpg` style=`margin-left: 7em; width: 150px;`>"],
-    "loginFetch":[{"admin":"admin","user":"user"}]
+    "loginFetch":[{"id":"admin","pass":"admin"},{"id":"user","pass":"user"}]
 }

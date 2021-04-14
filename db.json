@@ -146,17 +146,17 @@
         {
             "html":"<div class='kotak'>RED as BLOOD</div><div class='bulat alert'>red</div><h2 style='color:red;'>RED</h2>",
             "route":"red",
-            "id":"0"
+            "id":0
         },
         {
             "html":"<div class='kotak'>BLUE as WATER</div><div class='bulat alert'>blue</div><h2 style='color:blue;'>BLUE</h2>",
             "route":"blue",
-            "id":"1"
+            "id":1
         },
         {
             "html":"<div class='kotak'>YELLOW as GOLD</div><div class='bulat alert'>gold</div><h2 style='color:red;'>YELLOW</h2>",
             "route":"yellow",
-            "id":"2"
+            "id":2
 
         }
     ]

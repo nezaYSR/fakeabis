@@ -144,17 +144,14 @@
     ],
     "htmlFetch":[
         {
-            "html":"<div class='kotak'>RED as BLOOD</div><div class='bulat alert'>red</div><h2 style='color:red;'>RED</h2>",
             "route":"red",
             "message":"this is red detail page"
         },
         {
-            "html":"<div class='kotak'>BLUE as WATER</div><div class='bulat alert'>blue</div><h2 style='color:blue;'>BLUE</h2>",
-            "route":"blue",
+           "route":"blue",
             "message":"this is blue detail page"
         },
         {
-            "html":"<div class='kotak'>YELLOW as GOLD</div><div class='bulat alert'>gold</div><h2 style='color:red;'>YELLOW</h2>",
             "route":"yellow",
             "message":"this is yellow detail page"
 

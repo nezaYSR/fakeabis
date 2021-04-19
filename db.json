@@ -144,19 +144,19 @@
     ],
     "htmlFetch":[
         {
-            "style":"<style>.kotak{border:solid 2px red;}</style>",
+            "style":"<style>`.kotak{border:solid 2px red;}`</style>",
             "html":"<img src='https://static.wikia.nocookie.net/among-us-wiki/images/3/31/Red.png/revision/latest/scale-to-width-down/148?cb=20210307225556' /><div class='kotak'>RED as BLOOD</div><div class='bulat alert'>red</div><h2 style='color:red;'>RED</h2>",
             "route":"red",
             "id":0
         },
         {
-            "style":"<style>.kotak{border:solid 2px blue;}</style>",
+            "style":"<style>`.kotak{border:solid 2px blue;}`</style>",
             "html":"<img src='https://static.wikia.nocookie.net/among-us-wiki/images/c/c6/Blue_Mini_Crewmate.png/revision/latest/scale-to-width-down/100?cb=20210410211600' /><div class='kotak'>BLUE as WATER</div><div class='bulat alert'>blue</div><h2 style='color:blue;'>BLUE</h2>",
             "route":"blue",
             "id":1
         },
         {
-            "style":"<style>.kotak{border:solid 2px yellow;}</style>",
+            "style":"<style>`.kotak{border:solid 2px yellow;}`</style>",
             "html":"<img src='https://static.wikia.nocookie.net/among-us-wiki/images/9/92/Yellow.png/revision/latest/scale-to-width-down/148?cb=20201013061436' /><div class='kotak'>YELLOW as GOLD</div><div class='bulat alert'>gold</div><h2 style='color:red;'>YELLOW</h2>",
             "route":"yellow",
             "id":2
